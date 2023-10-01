@@ -1,6 +1,9 @@
 # GorillaSpeech
 A speech balloon mod for Gorilla Tag!
 
+# Dependencies
+This mod depends on ComputerInterface and Bepinject to run properly.
+
 # Installation
 To install this mod, head to https://github.com/bjrsinge/GorillaSpeech/releases and download the .dll file in the latest release.
 Then in File Explorer (or any other pc file explorer)copy the .dll file and go to C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins and paste the .dll in there.
