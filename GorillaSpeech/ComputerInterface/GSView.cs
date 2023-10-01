@@ -13,7 +13,7 @@ namespace GorillaSpeech
         public override void OnShow(object[] args)
         {   
             base.OnShow(args);
-            Text = "Type what you want the speech balloon to say!";
+            Text = "Type what you want the speech balloon to say! Press ENTER once you're done.";
         }
 
         public override void OnKeyPressed(EKeyboardKey key)
